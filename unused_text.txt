@@ -1,0 +1,19 @@
+## Building the actual code
+
+### Stop - is everything you need installed?
+
+Before you proceed ensure you have installed the software described [here](https://github.com/pkivolowitz/student_accessible_files/blob/master/README.md). Follow the instructions for 1810. 
+
+Do not proceed until having installed the needed software.
+
+### Downloading the code
+
+In this class we work exclusively in the command line environment. On Windows the command line environment is found in Ubuntu 18.04 which you will have installed by now. On the Mac, you will use "terminal".
+
+Downloading a single file from the Internet is accomplished using ```wget```, which you will have installed by now.
+
+Follow the following steps:
+
+1. On the Mac, execute "terminal". On Windows, click on the Ubuntu icon. On both cases you should now be in a terminal.
+
+On ```github``` navigate to the file you want to download.
